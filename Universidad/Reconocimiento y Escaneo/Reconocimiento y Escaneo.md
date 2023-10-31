@@ -6,6 +6,7 @@ Volver a [README](../../README.md)
 Primero se usa el comando `host wikipedia.org` para obtener la IP de la página de Wikipedia.
 
 ![Pasted image 20231031184913.png](./Im%C3%A1genes/Pasted%20image%2020231031184913.png)
+
 Con esto, podemos ver la IPv4 y la IPv6 del dominio.
 ## whois
 
