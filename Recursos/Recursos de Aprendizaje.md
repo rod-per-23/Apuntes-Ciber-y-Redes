@@ -31,3 +31,19 @@ https://www.youtube.com/watch?v=QdHvS0D1zAI
 
 
 Volver a [README](../README.md)
+
+# Otros 
+
+
+Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit
+https://www.metasploit.com/
+
+Home | Metasploit Documentation Penetration Testing Software, Pen Testing Security
+https://docs.metasploit.com/
+
+Scapy
+https://scapy.net/
+
+Hacking Labs | Virtual Hacking & Pentesting Labs (Upskill Fast)
+https://www.hackthebox.com/hacker/hacking-labs
+
