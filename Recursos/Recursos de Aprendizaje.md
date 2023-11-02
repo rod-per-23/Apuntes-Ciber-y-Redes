@@ -26,11 +26,10 @@ https://www.youtube.com/watch?v=cx6Xs3F_1Uc
 Raspberry Pi versus AWS // How to host your website on the RPi4 - YouTube
 https://www.youtube.com/watch?v=QdHvS0D1zAI
 
+Beginner cyber security projects you NEED to get hired
+https://www.youtube.com/watch?v=LFlsDm8w36A&
 
 
-
-
-Volver a [README](../README.md)
 
 # Otros 
 
@@ -46,4 +45,8 @@ https://scapy.net/
 
 Hacking Labs | Virtual Hacking & Pentesting Labs (Upskill Fast)
 https://www.hackthebox.com/hacker/hacking-labs
+
+
+
+Volver a [README](../README.md)
 
