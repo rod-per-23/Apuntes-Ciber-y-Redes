@@ -9,4 +9,6 @@ Aquí voy a poner todos los apuntes relacionados al curso de NetAcad Fundamentos
 	- [2.5 Framework para administración de seguridad de IT](./Cap%202%20-%20Cubo%20de%20Destrezas%20de%20Ciberseguridad/2.5%20Framework%20para%20administraci%C3%B3n%20de%20seguridad%20de%20IT.md)
 - Capítulo 3 - Threats, Vulnerabilities and Attacks
 	- [3.0 Intro](./Cap%203%20-%20Threats,%20Vulnerabilities%20and%20Attacks/3.0%20Intro.md)
-	- 
+	- [3.1 Malware](./Cap%203%20-%20Threats,%20Vulnerabilities%20and%20Attacks/3.1%20Malware.md)
+	- [3.1.5 Email and Browser attacks](./Cap%203%20-%20Threats,%20Vulnerabilities%20and%20Attacks/3.1.5%20Email%20and%20Browser%20attacks.md)
+	- [3.2 Deception](./Cap%203%20-%20Threats,%20Vulnerabilities%20and%20Attacks/3.2%20Deception.md)
